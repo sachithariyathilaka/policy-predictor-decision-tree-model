@@ -7,8 +7,8 @@ Decision tree model for road traffic policy predictor application.
   * Decision Tree Algorithm
   
 * ### Release Note
-  * Release: 1.0.0
-  * Date: 2024/05/26
+  * Version: 1.0.0
+  * Release Date: 2024/05/26
   * Module: Policy Predictor Decision Tree Model
   * Changes
     * Policy predictor decision tree model implemented.
